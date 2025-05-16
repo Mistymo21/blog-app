@@ -1,0 +1,28 @@
+.container{
+ 
+}
+
+
+.imgContainer{
+    height: 200px;
+    width: 400px;
+    position: relative;
+}
+
+
+
+.image{
+    object-fit: cover;
+}
+
+.top{
+   display: flex;
+   margin-bottom: 40px;
+}
+
+
+
+.info{
+  margin-top: 20px;
+  
+}
