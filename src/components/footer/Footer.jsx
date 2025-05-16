@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./page.module.css";
+import styles from "./Footer.module.css";
 import Image from "next/image";
 import fb from "../../../public/1.png";
 import ig from "../../../public/2.png";
